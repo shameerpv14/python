@@ -1,0 +1,7 @@
+a=input('enter your numbers')
+print(a)
+lst_num=a.split(',')
+print(lst_num)
+print(max(lst_num))
+print(min(lst_num))
+print(len(lst_num))
